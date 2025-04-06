@@ -33,3 +33,38 @@ let number = 101
 let StringNumber = String(number);
 console.log(StringNumber);
 console.log(typeof StringNumber);
+
+//operation//
+
+//  console.log(2+2);
+//  console.log(2-2);
+//  console.log(2*2);
+//  console.log(2/2);
+//  console.log(2%2);
+
+// let str1 = "hello"
+// let str2 = "world"
+// let str3 = str1 + str2
+// console.log(str3);
+
+console.log("1"+"2");
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+"1"+ 2);
+console.log(1+"1"+ "2");
+
+
+console.log(true);
+
+let num1, num2, num3 =2
+console.log(num1, num2, num3)
+
+let gameCounter = 100
+ // gameCounter++;
+ 
+console.log(gameCounter);
+
+
+   
+
+
